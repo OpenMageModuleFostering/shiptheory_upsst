@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Shiptheory_Upsst>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Shiptheory_Upsst>
+    </modules>
+</config>
