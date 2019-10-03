@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Shiptheory_Upsst",
+    "name": "OpenMageModuleFostering\/Shiptheory_Upsst",
     "type": "magento-module",
     "license": "Commercial",
     "homepage": "",
     "description": "UPS Shipping API Integration from Shiptheory",
     "authors": [
-    {
-        "name": "Shiptheory",
-        "email": "jm@shiptheory.com"
-    }
-],
+        {
+            "name": "Shiptheory",
+            "email": "jm@shiptheory.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
